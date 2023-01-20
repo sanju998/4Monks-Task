@@ -1,0 +1,36 @@
+.main-div {
+    height: 100vh;
+}
+
+.main-container {
+    margin: 0 auto !important;
+    max-width: 340px !important;
+    background-color: #fdfeff !important;
+
+}
+
+.slide {
+    width: 100%;
+}
+
+video {
+    height: 600px !important;
+    border: none;
+    width: 100%;
+    object-fit: cover;
+}
+
+.slide-overly {
+    position: absolute;
+    top: 0;
+    height: 540px !important;
+    width: 100%;
+    color: #fff;    
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+   
+
+
+
+}

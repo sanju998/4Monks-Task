@@ -1,0 +1,36 @@
+.carousel-indicators {
+    position: absolute;
+    justify-content: start !important;
+    padding: 0;
+    margin-right: 0 !important;
+    margin-bottom: -27px !important;
+    margin-left: 22px !important;
+
+}
+
+.carousel-indicators button {
+    opacity: 1 !important;
+
+}
+
+.carousel-indicators .active {
+
+    background-color: #23A1DD !important;
+}
+.commants{
+    font-size:35px;
+}
+@media screen and (max-width: 575px) {
+    .commants{
+        font-size:  27px;
+
+    }
+   
+    
+  }
+@media screen and (max-width: 400px) {
+    .commants{
+        font-size:  24px;
+
+    }
+  }

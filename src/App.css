@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+
+*{
+  font-family: 'Manrope', sans-serif;
+  cursor: url('../src/assets/Images/cursor.svg'), auto;
+}
+
+
+
