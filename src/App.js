@@ -19,7 +19,7 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<SignIn />} />
-          <Route path="/SecondTask" element={<ShortsVideo />} />
+           <Route path="/secondtask" element={<ShortsVideo />} />
           <Route path="*" element={<NotFound/>}/>
         </Routes>
       </Router>
